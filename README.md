@@ -1,5 +1,4 @@
-# DEBI-HR-Analytics
-# HR Analytics Dashboard
+# DEBI-HR-Analytics Dashboard
 
 ## Project Overview
 The HR Analytics Dashboard is an interactive tool developed using Power BI to provide insightful analysis of employee data. It enables organizations to monitor key HR metrics such as attrition rate, hiring trends, employee demographics, and performance indicators. This project empowers HR departments to make data-driven decisions and improve organizational efficiency.
