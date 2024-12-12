@@ -15,7 +15,7 @@ The HR Analytics Dashboard is an interactive tool developed using Power BI to pr
 - **Data Analysis Techniques**: To extract meaningful insights from HR data.
 
 ## Contact
-- **LinkedIn**: [Syed Abdulhamid](https://www.linkedin.com/in/syedabdulhamid/)
+- **LinkedIn**: [Syed Mohamed](https://www.linkedin.com/in/syedabdulhamid/)
 
 ---
 This dashboard demonstrates the value of leveraging data analytics for HR management, providing actionable insights to enhance employee satisfaction and organizational performance.
